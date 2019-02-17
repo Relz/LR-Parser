@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BuildServerSettings">
+    <option name="LOGIN" value="" />
+    <option name="SERVER_URL" value="http://buildserver" />
+    <option name="REMEMBER_ME" value="true" />
+    <option name="USE_IDEA_PROXY_SETTINGS" value="true" />
+    <option name="INSPECTIONS_BUILD_TYPE_IDS" />
+    <option name="DUPLICATES_BUILD_TYPE_IDS" />
+    <option name="COVERAGE_SETTINGS" />
+    <option name="TEST_STATUS_ENABLED" value="true" />
+    <option name="TEST_STATUS_SHOW_SUCCESSFUL" value="false" />
+    <option name="ARTIFACTS_BUILD_TYPE_IDS" />
+    <option name="PERFORM_COMMIT_IF_SUCCESSFUL" value="true" />
+    <option name="PERFORM_COMMIT_IF_NO_NEW_FAILED_TESTS" value="false" />
+    <option name="REQUEST_CONFIRMATON" value="false" />
+    <option name="PRE_TESTED_COMMIT" value="true" />
+    <option name="FILTER_BY_STATUS" value="false" />
+    <option name="FILTER_MARKED_AS_FIXED" value="false" />
+    <option name="SHOW_CLOSE_PROMPT" value="true" />
+    <option name="TOOL_WINDOW_SELECTED_CONTENT_INDEX" value="0" />
+    <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="LRParser" targetName="TokenLibrary" />
+      <config projectName="LRParser" targetName="InputLibrary" />
+      <config projectName="LRParser" targetName="LexerLibrary" />
+      <config projectName="LRParser" targetName="StreamStringLibrary" />
+      <config projectName="LRParser" targetName="LRParser" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0a221c13-3987-480f-9f20-ce0b12684c8d" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="main.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="271">
+              <caret line="453" column="6" selection-start-line="453" selection-start-column="6" selection-end-line="453" selection-end-column="6" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TokenExtensions.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LexerLibrary/TokenLibrary/TokenExtensions/TokenExtensions.h">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>std::unordered_map&lt;size_t, std::map&lt;size_t, Symbol&gt;&gt;</find>
+      <find>rowIndex</find>
+      <find>rules</find>
+      <find>std::cout</find>
+      <find>&lt;&lt;</find>
+      <find>unresolvedCells</find>
+      <find>unresolvedCellsQueue.push</find>
+      <find>GetCellsFirsts</find>
+      <find>&quot;R&quot;</find>
+      <find>result.</find>
+      <find>blacklist</find>
+      <find>GetNextTerminalsExceptRow</find>
+      <find>rowIndexBlacklist</find>
+      <find>&quot;R</find>
+      <find>.sequence</find>
+      <find>.sequence.</find>
+      <find>currentWordIndex</find>
+      <find>Правильная часть</find>
+      <find>firstRowIndex</find>
+      <find>Value(</find>
+      <find>nonterminalsToRowIndexes</find>
+      <find>ReadRule</find>
+      <find>collapses</find>
+      <find>argv[2]</find>
+      <find>#</find>
+      <find>references.</find>
+      <find>references</find>
+      <find>table</find>
+      <find>END_OF_FILE_TERMINAL</find>
+      <find>reference</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>std::unordered_map&lt;size_t, std::unordered_map&lt;size_t, Symbol&gt;&gt;</replace>
+      <replace>std::map&lt;size_t, Symbol&gt;</replace>
+      <replace>std::map&lt;size_t, std::map&lt;size_t, Symbol&gt;&gt;</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Cell/Cell.cpp" />
+        <option value="$PROJECT_DIR$/Cell/Cell.h" />
+        <option value="$PROJECT_DIR$/Symbol/Symbol.h" />
+        <option value="$PROJECT_DIR$/Symbol/Symbol.cpp" />
+        <option value="$PROJECT_DIR$/Collapse/Collapse.cpp" />
+        <option value="$PROJECT_DIR$/Collapse/Collapse.h" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/main.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="27" />
+    <option name="width" value="1366" />
+    <option name="height" value="741" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LRParser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LRParser" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LRParser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LRParser" type="462c0819:PsiDirectoryNode" />
+              <item name="LexerLibrary" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LRParser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LRParser" type="462c0819:PsiDirectoryNode" />
+              <item name="LexerLibrary" type="462c0819:PsiDirectoryNode" />
+              <item name="TokenLibrary" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LRParser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LRParser" type="462c0819:PsiDirectoryNode" />
+              <item name="LexerLibrary" type="462c0819:PsiDirectoryNode" />
+              <item name="TokenLibrary" type="462c0819:PsiDirectoryNode" />
+              <item name="TokenExtensions" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.typescriptcompiler" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.LRParser">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LRParser" RUN_TARGET_NAME="LRParser" EXPLICIT_BUILD_TARGET_NAME="all" />
+    <configuration name="InputLibrary" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LRParser" TARGET_NAME="InputLibrary" CONFIG_NAME="Debug" />
+    <configuration name="LRParser" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="rule12 input12" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LRParser" TARGET_NAME="LRParser" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LRParser" RUN_TARGET_NAME="LRParser" />
+    <configuration name="LexerLibrary" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LRParser" TARGET_NAME="LexerLibrary" CONFIG_NAME="Debug" />
+    <configuration name="StreamStringLibrary" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LRParser" TARGET_NAME="StreamStringLibrary" CONFIG_NAME="Debug" />
+    <configuration name="TokenLibrary" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LRParser" TARGET_NAME="TokenLibrary" CONFIG_NAME="Debug" />
+    <list>
+      <item itemvalue="Application.Build All" />
+      <item itemvalue="Application.LRParser" />
+      <item itemvalue="Application.InputLibrary" />
+      <item itemvalue="Application.StreamStringLibrary" />
+      <item itemvalue="Application.LexerLibrary" />
+      <item itemvalue="Application.TokenLibrary" />
+    </list>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a221c13-3987-480f-9f20-ce0b12684c8d" name="Default" comment="" />
+      <created>1528062969157</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528062969157</updated>
+      <workItem from="1528062973922" duration="11528000" />
+      <workItem from="1528134060339" duration="56921000" />
+      <workItem from="1528229057740" duration="2309000" />
+      <workItem from="1528268996105" duration="1276000" />
+      <workItem from="1528363500522" duration="5658000" />
+      <workItem from="1528442183075" duration="1784000" />
+      <workItem from="1528561349355" duration="322000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="79798000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1" y="1" width="1364" height="730" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.35724744" />
+      <window_info anchor="bottom" id="CMake" order="5" weight="0.329429" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.18035191" />
+      <window_info anchor="bottom" id="TeamCity" order="3" />
+      <window_info anchor="right" id="LuaJ" order="0" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.43923867" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="1" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="7" />
+      <window_info anchor="bottom" id="Message" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="86" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="rules" language="ObjectiveC" />
+        <watch expression="nonterminalsToRowIndexes" language="ObjectiveC" />
+        <watch expression="collapses" language="ObjectiveC" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>collapses</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>rowIndexBlacklist</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>next</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>nonterminalsToRowIndexes</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>rules</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9080">
+          <caret line="454" selection-start-line="454" selection-end-line="454" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LexerLibrary/TokenLibrary/TokenExtensions/TokenExtensions.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3020">
+          <caret line="151" column="27" selection-start-line="151" selection-start-column="27" selection-end-line="151" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LexerLibrary/TokenLibrary/TokenExtensions/TokenExtensions.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="58" selection-start-line="3" selection-start-column="58" selection-end-line="3" selection-end-column="58" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/8.1.0/bits/alloc_traits.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10080">
+          <caret line="504" selection-start-line="504" selection-end-line="504" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/8.1.0/bits/hashtable_policy.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15180">
+          <caret line="759" selection-start-line="759" selection-end-line="759" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/8.1.0/bits/stl_map.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10760">
+          <caret line="538" selection-start-line="538" selection-end-line="538" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/8.1.0/ext/string_conversions.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2200">
+          <caret line="110" selection-start-line="110" selection-end-line="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10780">
+          <caret line="539" column="22" selection-start-line="539" selection-start-column="22" selection-end-line="539" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10580">
+          <caret line="529" column="9" lean-forward="true" selection-start-line="529" selection-start-column="9" selection-end-line="529" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Symbol/Symbol.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cell/Cell.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cell/Cell.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4220">
+          <caret line="211" column="16" selection-start-line="211" selection-start-column="16" selection-end-line="211" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/8.1.0/bits/unordered_map.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="995" column="24" lean-forward="true" selection-start-line="995" selection-start-column="24" selection-end-line="995" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/8.1.0/bits/stl_queue.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="283" column="6" selection-start-line="283" selection-start-column="6" selection-end-line="283" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cell/Cell.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file:///usr/include/c++/8.1.0/bits/char_traits.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="350" column="7" lean-forward="true" selection-start-line="350" selection-start-column="7" selection-end-line="350" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/8.1.0/bits/ptr_traits.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="140" selection-start-line="140" selection-end-line="140" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/8.1.0/bits/move.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/8.1.0/ext/type_traits.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="151" selection-start-line="151" selection-end-line="151" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Symbol/Symbol.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/8.1.0/ext/new_allocator.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="134" selection-start-line="134" selection-end-line="134" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Symbol/Symbol.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Collapse/Collapse.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Collapse/Collapse.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file:///usr/include/c++/8.1.0/bits/stl_stack.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="200" selection-start-line="200" selection-end-line="200" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/8.1.0/bits/stl_vector.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="805" selection-start-line="805" selection-end-line="805" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cell/Cell.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/8.1.0/bits/basic_string.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6289" column="5" lean-forward="true" selection-start-line="6289" selection-start-column="5" selection-end-line="6289" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/8.1.0/tuple">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="184" column="11" selection-start-line="184" selection-start-column="11" selection-end-line="184" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/8.1.0/ext/string_conversions.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="108" column="40" lean-forward="true" selection-start-line="108" selection-start-column="40" selection-end-line="108" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/8.1.0/bits/stl_map.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="538" selection-start-line="538" selection-end-line="538" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/8.1.0/bits/hashtable_policy.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="759" selection-start-line="759" selection-end-line="759" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/8.1.0/bits/alloc_traits.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="504" selection-start-line="504" selection-end-line="504" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="22" column="56" selection-start-line="22" selection-start-column="56" selection-end-line="22" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LexerLibrary/TokenLibrary/TokenExtensions/TokenExtensions.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="453" column="6" selection-start-line="453" selection-start-column="6" selection-end-line="453" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

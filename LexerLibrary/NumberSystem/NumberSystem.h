@@ -1,0 +1,23 @@
+#ifndef LEXER_NUMBERSYSTEM_H
+#define LEXER_NUMBERSYSTEM_H
+
+enum class NumberSystem
+{
+	TWO,
+	THREE,
+	FOUR,
+	FIVE,
+	SIX,
+	SEVEN,
+	EIGHT,
+	NINE,
+	TEN,
+	ELEVEN,
+	TWELVE,
+	THIRTEEN,
+	FOURTEEN,
+	FIFTEEN,
+	SIXTEEN
+};
+
+#endif
